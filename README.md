@@ -1,4 +1,4 @@
-                                                        "# **Hi, I'm Abhishek**"
+                                                        Hi 👋, I'm Abhishek
 
 Javascript backend developer && Freelancer && Graphic Designer
 
