@@ -2,7 +2,9 @@
 
 <h3 align="center">Javascript backend developer && Freelancer && Graphic Designer</h3>
 
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=absk07)](https://github.com/ryo-ma/github-profile-trophy)
+</p>  
 
 * 🔭 Currently working on **my software development skills.**
 * 🌱 Emphasising on **Node JS** and **DSA.**
