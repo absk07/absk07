@@ -74,7 +74,7 @@
 </br>
  
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=absk07&show_icons=true&locale=en&layout=compact" alt="absk07" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=absk07&show_icons=true&locale=en&layout=compact" alt="absk07" />
 </p> 
 
 </br>
