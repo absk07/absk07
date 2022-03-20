@@ -71,8 +71,11 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
 </a> 
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=absk07&show_icons=true&locale=en&layout=compact" alt="absk07" /></p> 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=absk07&show_icons=true&locale=en&layout=compact" alt="absk07" />
+</p> 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absk07&show_icons=true&locale=en" alt="reckon77" /></p>
   
   
   
