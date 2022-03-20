@@ -6,9 +6,8 @@
 
 * 🔭 Currently working on **my software development skills.**
 * 🌱 Emphasising on **Node JS** and **DSA.**
-* 💬 Ask me about **Node JS, React JS, DSA, JAVA,** etc.
-* 📫 How to reach me **abhishek2612@gmail.com**
-* 📄 Know about my experiences https://www.linkedin.com/in/abhishek-kumar-8583321a7/
+* 💬 Lets talk **Node JS, React JS, DSA, JAVA,** etc.
+* 📫 Official Contact **abhishek2612@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
