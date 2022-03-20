@@ -17,6 +17,7 @@
 <a href="https://www.codechef.com/users/absk07" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="reckon77" height="30" width="40" /></a>
 </p>
 
+<p>
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -70,14 +71,11 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
 </a> 
- 
-</br>
+</p>
  
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=absk07&show_icons=true&locale=en&layout=compact" alt="absk07" />
 </p> 
-
-</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absk07&show_icons=true&locale=en" alt="reckon77" /></p>
   
