@@ -4,12 +4,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=absk07)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3>
 * 🔭 Currently working on **my software development skills.**
 * 🌱 Emphasising on **Node JS** and **DSA.**
 * 💬 Lets talk **Node JS, React JS, DSA, JAVA,** etc.
 * 📫 Official Contact **abhishek2612@gmail.com**
-</h3>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
