@@ -7,5 +7,5 @@ Node Js Backend developer && Freelancer && Graphic Designer
 * 🔭 Currently working on **my software development skills.**
 * 🌱 Emphasising on **Node JS** and **DSA.**
 * 💬 Ask me about **Node JS, React JS, DSA, JAVA,** etc.
-* 📫 How to reach me **[abhishek2612@gmail.com]**
-* 📄 Know about my experiences [https://www.linkedin.com/in/abhishek-kumar-8583321a7/]
+* 📫 How to reach me **abhishek2612@gmail.com**
+* 📄 Know about my experiences https://www.linkedin.com/in/abhishek-kumar-8583321a7/
