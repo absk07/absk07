@@ -1,6 +1,6 @@
-"# Hi, I'm Abhishek"
+                                                        "# **Hi, I'm Abhishek**"
 
-Node Js Backend developer && Freelancer && Graphic Designer
+Javascript backend developer && Freelancer && Graphic Designer
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=absk07)](https://github.com/ryo-ma/github-profile-trophy)
 
