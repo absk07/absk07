@@ -1,6 +1,6 @@
-                                                        Hi 👋, I'm Abhishek
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
 
-Javascript backend developer && Freelancer && Graphic Designer
+<h3 align="center">Javascript backend developer && Freelancer && Graphic Designer</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=absk07)](https://github.com/ryo-ma/github-profile-trophy)
 
