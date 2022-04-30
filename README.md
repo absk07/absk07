@@ -71,6 +71,10 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
 </a> 
 
+<a href="https://procreate.art/" target="_blank" rel="noreferrer"> 
+  <img src="https://assets.procreate.art/img/procreate-icon-search-display.png" width="40" height="40"/> 
+</a> 
+
 <a href="https://aws.amazon.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"         height="40"/> 
 </a>
